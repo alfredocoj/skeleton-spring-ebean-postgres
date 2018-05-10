@@ -1,0 +1,3 @@
+entity-packages: br.uema
+transactional-packages: br.uema
+querybean-packages: br.uema
