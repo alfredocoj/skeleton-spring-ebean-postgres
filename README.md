@@ -24,8 +24,8 @@ Pacotes:
 
 # Colaboradores
 
-  - Alfredo Oliveira - <alfredooliveira.uema.dpd@gmail.com>
-  - Jhordan Lima - <jhordanlima.uema.dpd@gmail.com>
+  - Alfredo Oliveira - <alfredooliveira@nti.uema.com>
+  - Jhordan Lima - <jhordanlima@nti.uema.com>
 
 # Configurações básicas
 Docker - BD Postgres
