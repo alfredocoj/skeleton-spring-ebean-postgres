@@ -1,5 +1,5 @@
 mvnw
 mvnw.cmd
-sigconcursos.iml
+*.iml
 .idea/
 target/
