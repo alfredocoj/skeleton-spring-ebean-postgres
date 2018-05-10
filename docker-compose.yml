@@ -1,0 +1,8 @@
+postgres:
+    image: postgres
+    environment:
+        POSTGRES_USER: 'postgres'
+        POSTGRES_PASSWORD: 'postgres.12qwaszx'
+        POSTGRES_DB: 'skeleton'
+    ports:
+        - "5432:5432"
