@@ -1,15 +1,16 @@
-Skeleton Application NTI Java
+Skeleton Application Java
 ===============
 
-Skeleton de aplicação Java do NTI/Uema.
+Skeleton de aplicação Java com autenticação com JWT e ORM Ebean.
 
 # Tecnologias
 
   - PostgreeSQL 9.4
   - Java JDK 8
   - Spring MVC 4+
+  - Spring Security 4.+
   - Maven 4
-  - Ebean 11.15.6
+  - Ebean 11.+
 
 # Módulos
 
@@ -24,8 +25,9 @@ Pacotes:
 
 # Colaboradores
 
-  - Alfredo Oliveira - <alfredooliveira@nti.uema.com>
-  - Jhordan Lima - <jhordanlima@nti.uema.com>
+  - Alfredo Oliveira ([alfredocoj](https://github.com/alfredocoj)) | e-mail: <alfredo@nti.uema.br>
+  - Jhordan Lima ([jhorlima](https://github.com/jhorlima)) | e-mail: <jhordanlima@nti.uema.com>
+  - Paulo Gustavo ([paulogustavo](https://github.com/paulogustavo)) | e-mail: <paulogustavo@nti.uema.br>
 
 # Configurações básicas
 Docker - BD Postgres
